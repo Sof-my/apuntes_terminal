@@ -1,0 +1,9 @@
+dir-listar
+cd nombre-entrar
+cd salir
+cd ..salir
+mkdir nombre-crear
+cls- limpiar
+echo. > [nombre del archivo.txt]  --> esto me crea un archivo txt con 3 bytes
+type nul > [nombre del archivo.txt] --> esto me crea un archivo txt con 0 bytes
+copy con [nombre del archivo .txt] --> creamos el archivo.txt y lo podemos editar
