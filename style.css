@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+}
+  
+        dt{
+            display: inline;
+            color: blue;
+            font-weight: bold;
+        }
+         dt.morado {
+            display: inline; 
+            color: purple; 
+            font-weight: bold;
+        }
+        dt.red {
+            display: inline; 
+            color: red; 
+            font-weight: bold;
+        }
+         dt.green {
+            display: inline; 
+            color: green; 
+            font-weight: bold;
+        }
+        dt.orange {
+            display: inline; 
+            color: orange; 
+            font-weight: bold;
+        }
+
+		dd {
+            display: inline;
+            margin-left: 0px;
+        }
+		br {
+            display: block; content: ""; 
+            margin-top: 5px;
+        }
+		
+
+        
