@@ -32,10 +32,21 @@ body {
             display: inline;
             margin-left: 0px;
         }
+        dd.sofia {color: pink;
+                background-color: white;
+                padding: 10px;
+            }
 		br {
             display: block; content: ""; 
             margin-top: 5px;
         }
-		
+		span {background-color: blueviolet;
+             padding: 20px;
+        }
 
-        
+        #barrio_1 {text-align: center;
+                color: brown;}
+
+        #barrio_2 {color: red;
+        background-color: aquamarine;
+    }
